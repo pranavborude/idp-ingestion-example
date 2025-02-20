@@ -5,8 +5,7 @@ metadata:
   description: The place to be, for great artists
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: 'pranavborude/go-web-app'
-    github.com/project-slug: 'ONDC-Organization/ondc-infra-resources'
+    github.com/project-slug: ['pranavborude/go-web-app','ONDC-Organization/ondc-infra-resources']
 spec:
   type: service
   lifecycle: production
